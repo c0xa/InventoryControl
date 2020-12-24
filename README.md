@@ -9,10 +9,13 @@
 Фронтенд написан на Python библиотека tkinter, а клиентская часть реализована в PostgreSQL.
 
 Окно аутентификации
+
 ![Authentication](Authentication.png)
 
 Главное меню
+
 ![menu](menu.png)
 
 Просмотр товаров
+
 ![LookProduct](LookProduct.png)

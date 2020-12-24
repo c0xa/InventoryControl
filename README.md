@@ -1,21 +1,19 @@
 
-# :construction: 
-
 - [:ru: RUS](./README.ru.md) - Русская документация
 - [:uk: ENG](./README.md) - English documentation
 
 # About
-Это клиенское приложение с возможностью отслеживания складского учета. 
-Фронтенд написан на Python библиотека tkinter, а клиентская часть реализована в PostgreSQL.
+This is a client application designed for tracking inventory records.
+The frontend is written on Python, tkinter library, the client part is executed in PostgreSQL.
 
-Окно аутентификации
+Authentication window
 
 ![Authentication](Authentication.png)
 
-Главное меню
+Main menu
 
 ![menu](menu.png)
 
-Просмотр товаров
+Viewing products
 
 ![LookProduct](LookProduct.png)

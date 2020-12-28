@@ -3,8 +3,7 @@
 - [:uk: ENG](./README.md) - English documentation
 
 # About
-This is a client application designed for tracking inventory records.
-The frontend is written on Python, tkinter library, the client part is executed in PostgreSQL.
+Inventory records tracking client-side app powered on Python and tkinter as a GUI framework. It uses PostgreSQL as a storage.
 
 Authentication window
 
